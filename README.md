@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Harrison 👋</h1>
+<h3 align="center">I'm a Full-Stack Developer originally from Atlanta,GA</h3>
 
-<!--
-**HarrisonJK/HarrisonJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Graduate of Cornell University and Fullstack Academy
+- 👨‍💻 All of my projects are available at [harrisonhjk.com](https://harrisonhjk.com/)
+- 📄 Know about my experiences on my [resume]()
+- 🔭 Currently learning Python
+- 📫 Email me at **hjk72@cornell.edu**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/harrisonhjk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harrisonhjk/" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,react,redux,nodejs,express,postgres,html,css,heroku,git,github" />
+  </a>
+</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrisonjk&" alt="Harrisonhjk" /></p>
