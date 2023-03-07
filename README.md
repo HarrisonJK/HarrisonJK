@@ -1,7 +1,9 @@
+<img src= "HK.png"/>
 <h1 align="center">Hi, I'm Harrison 👋</h1>
-<h3 align="center">I'm a Full-Stack Developer originally from Atlanta,GA</h3>
+<h3 align="center">I'm a Full-Stack Developer originally from Atlanta, Georgia</h3>
 
 - 🌱 Graduate of Cornell University and Fullstack Academy
+- 🇬🇷🇺🇸Proud Greek American and lifelong learner
 - 👨‍💻 All of my projects are available at [harrisonhjk.com](https://harrisonhjk.com/)
 - 📄 Know about my experiences on my [resume]()
 - 🔭 Currently learning Python
