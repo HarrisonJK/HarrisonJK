@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img src="HK.png" alt="HK Logo"></p>
+<p align="center"> <img src="HK.png" alt="HK Logo"/></p>
 <h1 align="center">Hi, I'm Harrison 👋</h1>
 <h3 align="center">I'm a Full-Stack Developer originally from Atlanta, Georgia</h3>
 
