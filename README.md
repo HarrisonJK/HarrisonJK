@@ -5,7 +5,6 @@
 - 🌱 Graduate of Cornell University and Fullstack Academy
 - 🇬🇷🇺🇸 Proud Greek-American and lifelong learner
 - 👨‍💻 All of my projects are available at [harrisonhjk.com](https://harrisonhjk.com/)
-- 📄 Know about my experiences on my [resume]()
 - 🔭 Currently learning Python
 - 📫 Email me at **hjk72@cornell.edu**
 
